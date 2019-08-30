@@ -4,4 +4,3 @@
 # 示例 JDBC配置类
 
 1
-  new ConfigCenterManager("/myconfig","util");
