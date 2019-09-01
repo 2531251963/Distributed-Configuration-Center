@@ -7,16 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="019f34d4-efd1-4316-986b-89c3ceffc36e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/zk_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/zk_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/zk分布式配置中心.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/zk分布式配置中心.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigValue.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="106" column="49" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+            <state relative-caret-position="401">
+              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5183#5435#0" expanded="true" />
@@ -184,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567325878232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567325955486" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -278,16 +274,15 @@
       <workItem from="1567132446583" duration="29293000" />
       <workItem from="1567233156425" duration="593000" />
       <workItem from="1567260666302" duration="63000" />
-      <workItem from="1567323741738" duration="1975000" />
+      <workItem from="1567323741738" duration="2421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38284000" />
+    <option name="totallyTimeSpent" value="38730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -430,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="106" column="49" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+        <state relative-caret-position="401">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5183#5435#0" expanded="true" />
