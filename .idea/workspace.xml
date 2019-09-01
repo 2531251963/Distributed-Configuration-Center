@@ -6,7 +6,18 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="019f34d4-efd1-4316-986b-89c3ceffc36e" name="Default Changelist" comment="" />
+    <list default="true" id="019f34d4-efd1-4316-986b-89c3ceffc36e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/ConfigCenterManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/easyarch/configcenter/annotation/ConfigValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/zk_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/zk_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/zk分布式配置中心.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/zk分布式配置中心.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +30,13 @@
     <session id="-885916595">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,13 +56,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="4165" />
+          <entry key="java" value="4214" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4165" />
+          <entry key="JAVA" value="4214" />
           <entry key="PLAIN_TEXT" value="15" />
           <entry key="XML" value="9" />
         </counts>
@@ -60,13 +74,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="521">
+              <caret line="106" column="49" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
               <folding>
-                <element signature="e#4730#4982#0" expanded="true" />
-                <element signature="e#4981#4982#0" expanded="true" />
-                <element signature="e#7884#8657#0" expanded="true" />
-                <element signature="e#8656#8657#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#5183#5435#0" expanded="true" />
+                <element signature="e#5434#5435#0" expanded="true" />
+                <element signature="e#8424#9197#0" expanded="true" />
+                <element signature="e#9196#9197#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,7 +122,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="113" />
     <option name="y" value="12" />
     <option name="width" value="1579" />
@@ -119,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,28 +142,61 @@
               <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
               <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zk分布式配置中心" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zk分布式配置中心" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="configcenter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567179223411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567325878232" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.easyarch.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,18 +275,21 @@
       <option name="presentableId" value="Default" />
       <updated>1567079886098</updated>
       <workItem from="1567079888711" duration="6360000" />
-      <workItem from="1567132446583" duration="27913000" />
+      <workItem from="1567132446583" duration="29293000" />
+      <workItem from="1567233156425" duration="593000" />
+      <workItem from="1567260666302" duration="63000" />
+      <workItem from="1567323741738" duration="1975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34273000" />
+    <option name="totallyTimeSpent" value="38284000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19382322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,7 +308,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32952183" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32882413" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -289,29 +341,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/ManagerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/util/ZookeeperUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#436#766#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#895#1163#0" expanded="true" />
-            <element signature="e#1162#1163#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/ManagerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/util/ZookeeperUtil.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.4-beta/zookeeper-3.5.4-beta.jar!/org/apache/zookeeper/ZooKeeper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -378,47 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/util/JdbcUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/StopHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/Ser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#394#402#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/util/JdbcUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/StopHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/Ser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/Test.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -436,13 +430,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/easyarch/configcenter/ConfigCenterManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="521">
+          <caret line="106" column="49" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
           <folding>
-            <element signature="e#4730#4982#0" expanded="true" />
-            <element signature="e#4981#4982#0" expanded="true" />
-            <element signature="e#7884#8657#0" expanded="true" />
-            <element signature="e#8656#8657#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#5183#5435#0" expanded="true" />
+            <element signature="e#5434#5435#0" expanded="true" />
+            <element signature="e#8424#9197#0" expanded="true" />
+            <element signature="e#9196#9197#0" expanded="true" />
           </folding>
         </state>
       </provider>
